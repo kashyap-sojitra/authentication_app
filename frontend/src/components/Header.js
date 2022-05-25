@@ -42,7 +42,7 @@ const Header = () => {
                 </NavDropdown>
               </>
             ) : (
-              <Nav.Link style={{color:'white'}} href="/login">xLogin</Nav.Link>
+              <Nav.Link style={{color:'white'}} href="/login">Login</Nav.Link>
             )}
           </Nav>
     </Navbar.Collapse>
